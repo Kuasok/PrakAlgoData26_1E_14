@@ -1,4 +1,4 @@
-# Laporan Praktikum Dasar Pemrograman Jobsheet 5 Pemilihan
+# Laporan Praktikum Dasar Pemrograman Jobsheet 1 Pemilihan
 
 <h4>Nama : Muhammad Ferdi Afiyanto<h4>
 <h4>NIM : 254107020122<h4>
