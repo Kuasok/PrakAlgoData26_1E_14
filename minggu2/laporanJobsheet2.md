@@ -31,7 +31,7 @@
 ## 2.3 Membuat Konstruktor
 - Gambar ada di 2.1
 
-1. Line 6 - 15 pada MahasiswaMain14.java
+1. Line 6 - 15 pada Mahasiswa14.java
 2. Baris ini melakukan instansiasi objek bernama mhs2 sekaligus memberikan nilai awal pada atribut-atributnya secara langsung memanfaatkan parameter yang dikirim ke konstruktor
 3. terjadi Error karena pada MahasiswaMain14, objek mhs1 di-instansiasi dengan pemanggilan konstruktor kosong (new Mahasiswa14()). Java hanya menyediakan konstruktor default otomatis jika tidak ada konstruktor lain yang dibuat. Karena kita sudah membuat konstruktor berparameter, kita wajib menuliskan konstruktor default secara eksplisit
 4. Tidak, method tidak harus diakses secara berurutan. Pemanggilan method disesuaikan dengan kebutuhan alur logika program yang sedang kita buat
