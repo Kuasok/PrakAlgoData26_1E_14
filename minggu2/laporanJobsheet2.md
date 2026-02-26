@@ -6,11 +6,8 @@
 
 ## 2.1 Deklarasi Class, Atribut dan Method
 
-![![alt text](image.png) 1](images/5ca738b528e33556f9db88dbadbe56da215faadcea3ec98326d66cfb8fbfc01a.png)  
+![![alt text](image.png) 1](images/c6477828d02f30fbd6814d7aa93a0a2e610d918b9909ccafea8e611ac469992a.png)  
 
-![picture 0](images/656e561fb43f77d996bc6c3808ce17db3e5d843756a0830eed9947cb5393aba4.png)  
-
-![picture 2](images/6b5912dbad6a2d747c390e0c6ad079ead17443996a622ada0deecb60ebe0460a.png)  
 
 1. Dua karakteristik class atau object: Class merupakan blueprint atau cetakan, sedangkan Object adalah instance (wujud nyata) dari class tersebut di dalam memori yang memiliki state (atribut) dan behavior (method).
 
@@ -24,8 +21,9 @@
 
 ## 2.2 Instansiasi Object, serta Mengakses Atribut dan Method
 
-![picture 4](images/656e561fb43f77d996bc6c3808ce17db3e5d843756a0830eed9947cb5393aba4.png)  
+![picture 9](images/537a530dc1ec8deaf6d70e50ec30cf6eef28d3f44ca1acf4889943a97ead3ba8.png)  
 
+![picture 10](images/6b5912dbad6a2d747c390e0c6ad079ead17443996a622ada0deecb60ebe0460a.png)  
 
 ## 2.3 Membuat Konstruktor
 
