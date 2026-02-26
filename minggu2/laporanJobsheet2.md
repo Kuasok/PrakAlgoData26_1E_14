@@ -23,7 +23,9 @@
 5. Method class Mahasiswa: Ada 4 method , yaitu tampilkanInformasi(), ubahKelas(), updateIpk(), dan nilaiKinerja()
 
 ## 2.2 Instansiasi Object, serta Mengakses Atribut dan Method
-![picture 3](d:\beta%20test%2025\algo\PrakAlgoData26_1E_14\minggu2\images\656e561fb43f77d996bc6c3808ce17db3e5d843756a0830eed9947cb5393aba4.png)  
+
+![picture 4](images/656e561fb43f77d996bc6c3808ce17db3e5d843756a0830eed9947cb5393aba4.png)  
+
 
 ## 2.3 Membuat Konstruktor
 
