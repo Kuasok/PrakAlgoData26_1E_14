@@ -24,6 +24,10 @@
 
 ![picture 10](images/6b5912dbad6a2d747c390e0c6ad079ead17443996a622ada0deecb60ebe0460a.png)  
 
+1. Line 4 Nama object yang dihasilkan adalah mhs1
+2. Menggunakan operator titik (.) setelah nama objek, contohnya mhs1.nama atau mhs1.tampilkanInformasi()
+3. Karena di antara pemanggilan tampilkanInformasi() pertama dan kedua, terdapat pemanggilan method ubahKelas("SI 2K") dan updateIpk(3.60) yang merubah nilai atribut objek tersebut
+
 ## 2.3 Membuat Konstruktor
 - Gambar ada di 2.1
 
@@ -35,9 +39,20 @@
 
 
 ## Tugas 1 
-- Berikut hasil array plat nomor:
+- Berikut hasil program matakuliah
+![picture 15](images/48d918c86bcfd049df7f7216d4d7547ef81e67bcd2dcb33f24c89bb907d172e0.png)  
+
+![picture 16](images/65331916ce05d4e71b8fcb748e14f033895b83883eaa1eec691e8a43534a5c59.png)  
+
+![picture 17](images/e417b619e15ddf264bcfed9731fede81d6cb223f7fe84f84b7563353f8dcc750.png)  
 
 
 ## Tugas 2 
-- Berikut hasil program data jadwal kuliah:
+- Berikut hasil program dosen
+![picture 12](images/5ca738b528e33556f9db88dbadbe56da215faadcea3ec98326d66cfb8fbfc01a.png)  
+
+![picture 13](images/656e561fb43f77d996bc6c3808ce17db3e5d843756a0830eed9947cb5393aba4.png)  
+
+![picture 14](images/e9ec9a3d846481ca919527e8ae04eefbe3635ac0289e4235e5271a4dca5c2be3.png)  
+
  
