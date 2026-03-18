@@ -1,10 +1,9 @@
 # LAPORAN JOBSHEET 3
 ## ARRAY OF OBJECTS
 
-**Mata Kuliah:** Algoritma dan Struktur Data  
-**Program Studi:** D4 Teknik Informatika  
-**Jurusan:** Teknologi Informasi – Politeknik Negeri Malang  
-**Tahun:** 2024-2025
+**NAMA:** Muhammad Ferdi Afiyanto
+**NIM:** 254107020122
+**KELAS:** TI-1E
 
 ---
 
