@@ -2,7 +2,9 @@
 ## ARRAY OF OBJECTS
 
 **NAMA:** Muhammad Ferdi Afiyanto
+
 **NIM:** 254107020122
+
 **KELAS:** TI-1E
 
 ---
