@@ -258,7 +258,7 @@ Erik    1002    1B
 Dila    1001    1A
 ```
 
-Output sesuai dengan hasil yang diharapkan pada jobsheet. ✅
+Output sesuai dengan hasil yang diharapkan pada jobsheet. 
 
 ---
 
@@ -498,7 +498,7 @@ Nilai Tugas Tika adalah 87
 Nilai Biner Tugas: 1010111
 ```
 
-Output sesuai dengan hasil yang diharapkan pada jobsheet. ✅
+Output sesuai dengan hasil yang diharapkan pada jobsheet. 
 
 ---
 
@@ -529,7 +529,7 @@ Semua nilai di-pop satu per satu dan dirangkai menjadi string. Karena pop mengam
 Pop berurutan: 1, 0, 1, 0, 1, 1, 1 → "1010111"
 ```
 
-Hasil: `87` (desimal) = `1010111` (biner) ✅
+Hasil: `87` (desimal) = `1010111` (biner) 
 
 ---
 
@@ -788,7 +788,7 @@ Durasi               : 1 hari
 Status               : Surat berhasil divalidasi.
 ```
 
-Output sesuai dengan logika stack LIFO yang diharapkan. ✅
+Output sesuai dengan logika stack LIFO yang diharapkan. 
 
 ---
 
