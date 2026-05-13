@@ -709,7 +709,6 @@ Program antrian persetujuan Kartu Rencana Studi (KRS) oleh Dosen Pembina Akademi
 
 ### 4.1 Kode Class `MahasiswaKRS14` (Tugas)
 
-> **Catatan:** Class ini diberi nama `MahasiswaKRS14` (bukan `Mahasiswa14`) agar tidak bertabrakan dengan class `Mahasiswa14` pada Percobaan 2, karena semua file berada dalam satu folder.
 
 ```java
 public class MahasiswaKRS14 {
