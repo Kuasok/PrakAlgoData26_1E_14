@@ -2,9 +2,10 @@ import java.util.Scanner;
 
 public class MainRoyalDelish14 {
     public static void main(String[] args) {
-        Scanner sc14              = new Scanner(System.in);
+        Scanner sc14                 = new Scanner(System.in);
         AntrianPembeli14 antrian14   = new AntrianPembeli14();
-        DaftarPesanan14  pesanan14   = new DaftarPesanan14();
+        DaftarPesanan14  pesanan14   = new DaftarPesanan14();        
+        LinkedListRekap14 rekap14    = new LinkedListRekap14(); // Menambah LinkedListRekap
         int pilihan14;
 
         do {
@@ -15,12 +16,12 @@ public class MainRoyalDelish14 {
             System.out.println("2. Cetak Antrian");
             System.out.println("3. Hapus Antrian dan Pesan");
             System.out.println("4. Laporan Pesanan");
+            System.out.println("5. Rekap Pesanan (Menu Baru)"); //Rekap Pesanan mengikuti aturan di tampilkan urut descending berdasarkan jumlah.
             System.out.println("0. Keluar");
             System.out.print("Pilih menu : ");
             pilihan14 = Integer.parseInt(sc14.nextLine());
 
             switch (pilihan14) {
-
                 case 1: // Tambah Antrian
                     System.out.print("Nama Pembeli : ");
                     String nama14 = sc14.nextLine();
@@ -47,8 +48,11 @@ public class MainRoyalDelish14 {
                         System.out.print("Harga         : ");
                         int harga14 = Integer.parseInt(sc14.nextLine());
                         Pesanan14 newPesanan14 = new Pesanan14(
-                            kode14, namaMakanan14, harga14, dilayani14.namaPembeli14);
-                        pesanan14.tambahPesanan14(newPesanan14);
+                            kode14, namaMakanan14, harga14, dilayani14.namaPembeli14);                        
+                        pesanan14.tambahPesanan14(newPesanan14);                        
+                        // MASUKKAN KE LINKEDLIST REKAP SETIAP ADA PESANAN BARU
+                        rekap14.tambahAtauUpdate14(namaMakanan14); 
+
                         System.out.println(dilayani14.namaPembeli14
                             + " telah memesan " + namaMakanan14);
                     }
@@ -56,6 +60,11 @@ public class MainRoyalDelish14 {
 
                 case 4: // Laporan Pesanan
                     pesanan14.laporanPesanan14();
+                    break;
+
+                // Untuk mencetak rekap
+                case 5: 
+                    rekap14.cetakRekap14();
                     break;
 
                 case 0:
