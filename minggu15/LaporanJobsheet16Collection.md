@@ -1,7 +1,7 @@
 # LAPORAN JOBSHEET 16 - COLLECTION
 
-**Nama:** [Nama Mahasiswa]  
-**NIM:** [Nomor Induk Mahasiswa]  
+**Nama:** Muhammad Ferdi Afiyanto  
+**NIM:** 254107020122  
 **No. Presensi:** 14  
 **Kelas:** D4 Teknik Informatika  
 **Politeknik Negeri Malang**
